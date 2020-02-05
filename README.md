@@ -1,4 +1,4 @@
 # first-demo-project
-second heading
+#second heading
 
 this is my first demo repository 
